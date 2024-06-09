@@ -1,0 +1,43 @@
+.root {
+    -fx-font-family: "Arial Black";
+    -fx-background-color: #AAAAFF;
+}
+
+
+.label {
+    -fx-font-size: 24;
+}
+
+#textInput {
+    -fx-background-radius: 4;
+    -fx-background-insets: 0;
+    -fx-border-color: #000000;
+    -fx-border-width: 2;
+    -fx-border-radius: 3;
+}
+
+.scroll-pane {
+    -fx-background-radius: 6;
+    -fx-background-insets: 0;
+    -fx-border-color: #000000;
+    -fx-border-width: 3;
+    -fx-border-radius: 5;
+
+}
+
+#guessBoard .label {
+    -fx-font-size: 24;
+    -fx-border-color: #000000;
+    -fx-border-width: 3;
+    -fx-background-radius: 5;
+    -fx-border-radius: 5;
+    -fx-background-insets: 0;
+}
+
+
+
+.button {
+    -fx-background-color: #66ff33;
+    -fx-border-radius: 3;
+}
+
